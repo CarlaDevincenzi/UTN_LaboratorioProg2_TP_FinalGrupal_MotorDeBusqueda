@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1646865596 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	"windows.h"
+	<conio.h>
+	"nodoFrase.h"
+	"funcionesUsuario.h"
+	"menu.h"
+
+1646866048 d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\termino.h
+
+1646866048 d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\nodot.h
+
+1646866048 d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\nodoa.h
+	"nodoT.h"
+	"Termino.h"
+
+1646866048 d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\nodofrase.h
+	<string.h>
+	<malloc.h>
+	<stdio.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	"windows.h"
+	<conio.h>
+
+1646866048 d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\funcionesusuario.h
+	"nodoA.h"
+	"nodoFrase.h"
+
+1646866048 d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Termino.h"
+	"nodoT.h"
+	"nodoA.h"
+	"windows.h"
+	<conio.h>
+	"nodoFrase.h"
+	"funcionesUsuario.h"
+
+1646866217 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\termino.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+	"Termino.h"
+
+1646866444 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\nodot.c
+	<stdio.h>
+	<stdlib.h>
+	"nodoT.h"
+
+1646866507 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\nodoa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"nodoA.h"
+
+1646866572 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\nodofrase.c
+	"nodoFrase.h"
+
+1646866657 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\funcionesusuario.c
+	"funcionesUsuario.h"
+
+1646866753 source:d:\carla\documents\carla\utn\primer_anio\programacion_laboratorio\prog_y_lab_2\t_practicos\tp_final_grupal_motorbusqueda\menu.c
+	"menu.h"
+
